@@ -2,7 +2,7 @@
 I'm a Junior Web Developer and currently learning Laravel.
 
 ## My Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,python)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel-light,python)
 <!--
 **mohammadali-arjomand/mohammadali-arjomand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
