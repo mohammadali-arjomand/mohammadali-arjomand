@@ -2,7 +2,7 @@
 I'm a Junior Web Developer and currently learning Laravel.
 
 ## My Skills
-![HTML5]([https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg))
+![HTML5](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
 <!--
 **mohammadali-arjomand/mohammadali-arjomand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
