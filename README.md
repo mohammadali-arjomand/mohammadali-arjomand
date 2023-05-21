@@ -8,4 +8,4 @@ I'm a Junior Web Developer and currently focusing on the back-end and learning L
 ![My Tools](https://skillicons.dev/icons?i=vscode,vim,git,github,ps,linux&theme=light)
 
 ## Stats
-![MohammadALi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadali-arjomand&show_icons=true&theme=merko)
+![MohammadALi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadali-arjomand&show_icons=true&theme=react)
