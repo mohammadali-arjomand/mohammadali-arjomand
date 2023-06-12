@@ -1,7 +1,7 @@
 # About Me 👋
 I'm a Mid-level Web Developer and currently focusing on the back-end and learning Laravel.
 
-## My Skills
+## My Programming Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,vue,php,laravel&theme=light)
 ```json
 {
