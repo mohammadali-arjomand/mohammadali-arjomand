@@ -19,8 +19,5 @@ I'm a Mid-level Web Developer and currently focusing on the back-end and learnin
 }
 ```
 
-## My Tools
-![My Tools](https://skillicons.dev/icons?i=vim,git,linux,vscode,github,wordpress&theme=light&perline=3)
-
 ## Stats
 ![MohammadALi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadali-arjomand&show_icons=true&theme=react)
