@@ -1,5 +1,5 @@
 # About Me 👋
-I'm a Junior Web Developer and currently focusing on the back-end and learning Laravel.
+I'm a Mid-level Web Developer and currently focusing on the back-end and learning Laravel.
 
 ## My Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,python,bootstrap,sass,vue,laravel&theme=light&perline=5)
