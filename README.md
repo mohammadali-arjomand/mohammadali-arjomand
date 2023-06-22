@@ -9,6 +9,8 @@ I'm a Mid-level Web Developer and currently focusing on the back-end and learnin
     "HTML",
     "CSS",
     "SCSS",
+    "BootStrap",
+    "MaterializeCSS",
     "JavaScript",
     "VueJS"
   ],
