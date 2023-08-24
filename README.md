@@ -15,6 +15,7 @@ I'm a Mid-level Web Developer and currently focusing on the back-end and learnin
     "VueJS"
   ],
   "Back-end": [
+    "Python",
     "PHP",
     "Laravel"
    ]
