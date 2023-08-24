@@ -5,20 +5,14 @@ I'm a Mid-level Web Developer and currently focusing on the back-end and learnin
 <!--![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,javascript,vue,php,laravel&theme=light)-->
 ```json
 {
-  "Frond-end": [
-    "HTML",
-    "CSS",
-    "BootStrap",
-    "MaterializeCSS",
-    "SCSS",
-    "JavaScript",
-    "VueJS"
+  "JavaScript": [
+    "VueJs",
+    "SinglightJs"
   ],
-  "Back-end": [
-    "Python",
-    "PHP",
+  "PHP": [
     "Laravel"
-   ]
+  ],
+  "Python": []
 }
 ```
 
