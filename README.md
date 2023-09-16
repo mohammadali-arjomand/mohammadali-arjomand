@@ -7,6 +7,7 @@ I'm a Mid-level Web Developer and currently focusing on the back-end and learnin
 {
   "JavaScript": [
     "VueJs",
+    "ReactJs",
     "SinglightJs"
   ],
   "PHP": [
