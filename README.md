@@ -1,5 +1,5 @@
 # About Me 👋
-I'm a highschool student and trying to enjoy programming!
+I'm a high school student trying to enjoy programming!
 
 ## My Programming Skills
 <!--![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,javascript,vue,php,laravel&theme=light)-->
