@@ -1,9 +1,9 @@
 # About Me 👋
-I'm a Mid-level Web Developer and currently focusing on the back-end and learning Laravel.
+I'm a highschool student and trying to enjoy programming!
 
 ## My Programming Skills
 <!--![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,javascript,vue,php,laravel&theme=light)-->
-```json
+<!--```json
 {
   "JavaScript": [
     "VueJs",
@@ -15,12 +15,11 @@ I'm a Mid-level Web Developer and currently focusing on the back-end and learnin
   ],
   "Python": []
 }
-```
+```-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadali-arjomand&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=mohammadali-arjomand&show_icons=true&theme=react)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadali-arjomand&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Give Me a Coffee
